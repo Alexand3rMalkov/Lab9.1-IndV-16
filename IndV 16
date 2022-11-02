@@ -10,7 +10,7 @@ void main()
 	{
 		for (col = 1; col <= COL; ++col)
 		{
-			printf("%d * %d = %d", row, col, row * col);
+			printf("%d x %d = %d", row, col, row * col);
 			printf("\t");
 		}
 		printf("\n");
